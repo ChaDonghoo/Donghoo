@@ -11,3 +11,4 @@ During his time at university, he became familiar with programming languages ​
 My immediate goal is to complete all mandatory TOEIC and capstone project classes before graduation, and my target TOEIC score is over 550.
 
 #4. User needs
+After graduation, you must write an application and submit it to the company you will actually work for.
